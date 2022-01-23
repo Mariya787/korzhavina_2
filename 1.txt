@@ -1,4 +1,4 @@
 first line
 second line
 third line edited in remote repository
-forth line in main branch
+forth line branch with conflicts
